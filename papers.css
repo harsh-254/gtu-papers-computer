@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Nunito, sans-serif;;
+    text-align: center;
+}
+.papers-table{
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 20px;
+}
+
+.papers-hero-div{
+    padding: 30px;
+}
+.papers-container-div{
+    width: 100%;
+}
+.papers-title-div{
+    color: white;
+    font-size: 20px;
+    background-color: #000000BA;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+td{
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+    color: #2d7ec5;
+}
+tr:nth-child(even){
+    background-color: #eef0f3;
+}
