@@ -33,3 +33,26 @@ a{
 tr:nth-child(even){
     background-color: #eef0f3;
 }
+/* nav bar */
+.nav-bar{
+    height: 40px;
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 200px;
+    color: white;
+    display: flex;
+    gap: 200px;
+    font-size: 20px;
+}
+
+.nav-bar-uli{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.nav-bar-div-social{
+    display: flex;
+    gap: 20px;
+}
